@@ -1,8 +1,8 @@
 {
   "name": "goit-react-hw-04-movies",
-  "homepage": "/.",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "axios": "^0.19.0",
     "jss": "^10.0.0",
