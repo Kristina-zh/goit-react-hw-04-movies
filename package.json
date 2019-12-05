@@ -1,5 +1,6 @@
 {
-  "name": "mod-1",
+  "name": "goit-react-hw-04-movies",
+  "homepage": "/.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
