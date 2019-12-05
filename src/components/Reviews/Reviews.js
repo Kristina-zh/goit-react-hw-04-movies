@@ -22,7 +22,7 @@ export default class Reviews extends Component {
     const { reviews } = this.state;
     return (
       <div>
-        {reviews ? (
+        {reviews.length > 0 ? (
           <ul>
             {reviews.map(el => (
               <li key={el.id}>
